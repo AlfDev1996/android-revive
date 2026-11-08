@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="440" viewBox="0 0 808 440" role="img" aria-label="Biggest RAM users before (PSS)"><style>
+  .t{font:600 15px system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;fill:#0b0b0b}
+  .l{font:500 13px system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;fill:#0b0b0b}
+  .v{font:500 12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#52514e}
+  .d{font:600 13px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#0b0b0b}
+  .m{font:400 12px system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;fill:#52514e}
+  .bg{fill:#fcfcfb;stroke:#e4e3de}
+  .b0{fill:#86b6ef}.b1{fill:#2a78d6}.k{fill:#c3c2b7}.grid{stroke:#e4e3de;stroke-width:1}
+  @media (prefers-color-scheme: dark){
+    .t,.l,.d{fill:#f0efec}.v,.m{fill:#c3c2b7}
+    .bg{fill:#1a1a19;stroke:#383835}
+    .b0{fill:#184f95}.b1{fill:#3987e5}.k{fill:#52514e}.grid{stroke:#383835}
+  }
+</style><rect class="bg" x="0.5" y="0.5" width="807" height="439" rx="14"/><g transform="translate(24 24)">
+<text class="t" x="0" y="20">Biggest RAM users before (PSS)</text>
+<rect class="b1" x="0" y="38" width="12" height="12" rx="3"/><text class="m" x="18" y="49">Disabled by android-revive</text>
+<rect class="k" x="200" y="38" width="12" height="12" rx="3"/><text class="m" x="218" y="49">Kept</text>
+<text class="l" x="0" y="83">com.google.android.gms.ui</text>
+<rect class="b1" x="290" y="71" width="390.0" height="16" rx="4"><title>com.google.android.gms.ui: 89.0 MB</title></rect>
+<text class="v" x="686.0" y="83">89 MB</text>
+<text class="l" x="0" y="109">system</text>
+<rect class="k" x="290" y="97" width="335.7" height="16" rx="4"><title>system: 76.6 MB</title></rect>
+<text class="v" x="631.7" y="109">77 MB</text>
+<text class="l" x="0" y="135">com.google.android.tts</text>
+<rect class="b1" x="290" y="123" width="261.6" height="16" rx="4"><title>com.google.android.tts: 59.7 MB</title></rect>
+<text class="v" x="557.6" y="135">60 MB</text>
+<text class="l" x="0" y="161">com.google.android.gms</text>
+<rect class="b1" x="290" y="149" width="211.7" height="16" rx="4"><title>com.google.android.gms: 48.3 MB</title></rect>
+<text class="v" x="507.7" y="161">48 MB</text>
+<text class="l" x="0" y="187">com.android.systemui</text>
+<rect class="k" x="290" y="175" width="198.5" height="16" rx="4"><title>com.android.systemui: 45.3 MB</title></rect>
+<text class="v" x="494.5" y="187">45 MB</text>
+<text class="l" x="0" y="213">com.google.android.gms.persistent</text>
+<rect class="b1" x="290" y="201" width="190.2" height="16" rx="4"><title>com.google.android.gms.persistent: 43.4 MB</title></rect>
+<text class="v" x="486.2" y="213">43 MB</text>
+<text class="l" x="0" y="239">com.android.vending</text>
+<rect class="b1" x="290" y="227" width="155.6" height="16" rx="4"><title>com.android.vending: 35.5 MB</title></rect>
+<text class="v" x="451.6" y="239">36 MB</text>
+<text class="l" x="0" y="265">com.android.settings</text>
+<rect class="k" x="290" y="253" width="125.8" height="16" rx="4"><title>com.android.settings: 28.7 MB</title></rect>
+<text class="v" x="421.8" y="265">29 MB</text>
+<text class="l" x="0" y="291">com.cyanogenmod.trebuchet</text>
+<rect class="k" x="290" y="279" width="89.4" height="16" rx="4"><title>com.cyanogenmod.trebuchet: 20.4 MB</title></rect>
+<text class="v" x="385.4" y="291">20 MB</text>
+<text class="l" x="0" y="317">com.google.android.gms.unstable</text>
+<rect class="b1" x="290" y="305" width="75.8" height="16" rx="4"><title>com.google.android.gms.unstable: 17.3 MB</title></rect>
+<text class="v" x="371.8" y="317">17 MB</text>
+<text class="l" x="0" y="343">com.cyanogenmod.setupwizard</text>
+<rect class="b1" x="290" y="331" width="75.4" height="16" rx="4"><title>com.cyanogenmod.setupwizard: 17.2 MB</title></rect>
+<text class="v" x="371.4" y="343">17 MB</text>
+<text class="l" x="0" y="369">com.android.phone</text>
+<rect class="k" x="290" y="357" width="70.1" height="16" rx="4"><title>com.android.phone: 16.0 MB</title></rect>
+<text class="v" x="366.1" y="369">16 MB</text>
+</g></svg>

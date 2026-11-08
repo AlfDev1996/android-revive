@@ -1,0 +1,49 @@
+# Google apps.  Format:  package | tier | what it is
+# 'extreme' = Google Play services itself: most apps stop working or stop getting
+# notifications. Only for single-purpose devices (wall display, kiosk, offline).
+com.google.android.feedback               | safe        | crash-report UI
+com.google.android.partnersetup           | safe        | carrier partner setup
+com.google.android.printservice.recommendation | safe   | print plugin suggestions
+com.google.android.apps.restore           | safe        | restore-from-backup wizard (setup done)
+com.google.android.onetimeinitializer     | safe        | first-boot initializer
+com.google.ar.core                        | safe        | AR services
+com.google.android.apps.magazines         | safe        | Google News / Play Newsstand
+com.google.android.apps.books             | recommended | Play Books
+com.google.android.videos                 | recommended | Play Movies / Google TV
+com.google.android.music                  | recommended | Play Music (discontinued)
+com.google.android.apps.youtube.music     | recommended | YouTube Music
+com.google.android.apps.tachyon           | recommended | Duo / Meet
+com.google.android.talk                   | recommended | Hangouts (discontinued)
+com.google.android.apps.plus              | recommended | Google+ (discontinued)
+com.google.android.apps.subscriptions.red | recommended | Google One
+com.google.android.apps.podcasts          | recommended | Google Podcasts (discontinued)
+com.google.android.play.games             | recommended | Play Games
+com.google.android.apps.fitness           | recommended | Google Fit
+com.google.android.apps.docs              | recommended | Drive
+com.google.android.apps.docs.editors.docs | recommended | Docs
+com.google.android.apps.docs.editors.sheets | recommended | Sheets
+com.google.android.apps.docs.editors.slides | recommended | Slides
+com.google.android.keep                   | recommended | Keep notes
+com.google.ar.lens                        | recommended | Lens
+com.google.android.apps.googleassistant   | recommended | Assistant shortcut
+com.google.android.youtube                | recommended | YouTube (reinstall from Play if needed)
+com.google.android.apps.photos            | recommended | Photos (background backup/sync)
+com.google.android.apps.maps              | recommended | Maps (location in background)
+com.google.android.gm                     | recommended | Gmail
+com.google.android.tts                    | recommended | Google text-to-speech (navigation, accessibility)
+com.google.android.googlequicksearchbox   | aggressive  | Google app / search bar (some launchers depend on it)
+com.google.android.calendar               | aggressive  | Calendar
+com.google.android.apps.nbu.files         | aggressive  | Files by Google
+com.google.android.apps.wellbeing         | aggressive  | Digital Wellbeing
+com.google.android.marvin.talkback        | aggressive  | TalkBack screen reader - keep if anybody uses accessibility
+com.android.chrome                        | aggressive  | Chrome (keep one browser; protected automatically when it is the WebView)
+com.google.android.syncadapters.calendar  | aggressive  | calendar sync
+com.google.android.syncadapters.contacts  | aggressive  | contacts sync
+com.google.android.backuptransport        | aggressive  | Google backup transport
+com.google.android.configupdater          | aggressive  | security config updates
+com.google.android.setupwizard            | aggressive  | setup wizard (already completed)
+com.google.android.gms                    | extreme     | Google Play services - breaks most apps & notifications
+com.google.android.gsf                    | extreme     | Google services framework
+com.google.android.gsf.login              | extreme     | Google account login
+com.android.vending                       | extreme     | Play Store (may re-enable itself: use debloat --reapply)
+com.google.process.gapps                  | extreme     | Google apps process

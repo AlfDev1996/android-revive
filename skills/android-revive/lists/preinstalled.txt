@@ -1,0 +1,19 @@
+# Third-party apps OEMs and carriers preinstall.  Format:  package | tier | what it is
+com.facebook.appmanager           | safe        | Facebook App Manager (background updater)
+com.facebook.services             | safe        | Facebook Services (background)
+com.facebook.system               | safe        | Facebook App Installer
+com.netflix.partner.activation    | safe        | Netflix partner activation
+com.facebook.katana               | recommended | Facebook
+com.facebook.orca                 | recommended | Messenger
+com.instagram.android             | recommended | Instagram
+com.netflix.mediaclient           | recommended | Netflix
+com.microsoft.skydrive            | recommended | OneDrive
+com.microsoft.office.officehubrow | recommended | Microsoft Office
+com.linkedin.android              | recommended | LinkedIn
+com.spotify.music                 | recommended | Spotify
+com.amazon.mShop.android.shopping | recommended | Amazon Shopping
+com.amazon.appmanager             | recommended | Amazon App Manager
+com.booking                       | recommended | Booking.com
+com.ebay.mobile                   | recommended | eBay
+com.flipboard.app                 | recommended | Flipboard
+com.flipboard.boxer.app           | recommended | Flipboard briefing

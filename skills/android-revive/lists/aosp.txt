@@ -1,0 +1,48 @@
+# AOSP and custom-ROM apps.  Format:  package | tier | what it is
+# Tiers: safe (nobody misses it) · recommended (most people never use it)
+#        aggressive (useful apps - disable only if the device has one job)
+com.android.egg                         | safe        | Android version easter egg
+com.android.dreams.basic                | safe        | "Colors" screensaver
+com.android.dreams.phototable           | safe        | photo screensaver
+com.android.wallpaper.livepicker        | safe        | live wallpaper picker
+com.android.development                 | safe        | developer test app
+com.android.development_settings        | safe        | developer test app
+com.android.printservice.recommendation | safe        | suggests print plugins
+com.android.bookmarkprovider            | safe        | browser bookmarks provider (unused by modern browsers)
+com.android.traceur                     | safe        | system tracing tool
+com.android.hotwordenrollment.okgoogle  | safe        | "Ok Google" voice enrollment
+com.android.hotwordenrollment.xgoogle   | safe        | voice enrollment
+com.android.wallpaperbackup             | safe        | wallpaper backup agent
+com.svox.pico                           | recommended | old Pico text-to-speech voice
+com.android.printspooler                | recommended | printing (needed only if you print from the device)
+com.android.bips                        | recommended | default print service
+com.android.email                       | recommended | AOSP email app
+com.android.exchange                    | recommended | Exchange sync for AOSP email
+com.android.calendar                    | aggressive  | calendar app
+com.android.gallery3d                   | aggressive  | gallery app
+com.android.calculator2                 | aggressive  | calculator
+com.android.musicfx                     | aggressive  | audio equalizer
+com.android.soundrecorder               | aggressive  | sound recorder
+com.android.deskclock                   | aggressive  | clock & ALARMS - keep it if you use alarms
+com.android.sharedstoragebackup         | aggressive  | backup of shared storage (adb backup)
+com.android.stk                         | aggressive  | SIM toolkit (devices without SIM only)
+com.android.cellbroadcastreceiver       | aggressive  | EMERGENCY ALERTS - keep it on phones
+com.android.calllogbackup               | aggressive  | call-log backup
+com.android.messaging                   | aggressive  | AOSP SMS app (devices without SIM only)
+com.android.dialer                      | aggressive  | phone app (devices without SIM only)
+com.android.contacts                    | aggressive  | contacts app
+# LineageOS / CyanogenMod
+org.lineageos.updater                   | recommended | LineageOS OTA updater (abandoned builds)
+com.cyanogenmod.updater                 | recommended | CyanogenMod OTA updater
+com.cyanogenmod.setupwizard             | recommended | first-boot wizard (already completed)
+org.lineageos.setupwizard               | recommended | first-boot wizard (already completed)
+com.cyanogenmod.lockclock               | recommended | lock-screen clock widget
+org.cyanogenmod.weather.provider        | recommended | weather provider
+org.cyanogenmod.weatherservice          | recommended | weather service
+org.lineageos.recorder                  | aggressive  | screen/sound recorder
+org.lineageos.eleven                    | aggressive  | music player
+com.cyanogenmod.eleven                  | aggressive  | music player
+org.lineageos.snap                      | aggressive  | camera
+org.cyanogenmod.snap                    | aggressive  | camera
+org.lineageos.jelly                     | aggressive  | browser (keep one browser)
+org.lineageos.etar                      | aggressive  | calendar

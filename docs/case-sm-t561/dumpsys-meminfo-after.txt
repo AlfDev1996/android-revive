@@ -1,0 +1,147 @@
+Applications Memory Usage (in Kilobytes):
+Uptime: 121977 Realtime: 121977
+
+Total PSS by process:
+     72,420K: system (pid 590)
+     43,412K: com.android.systemui (pid 706 / activities)
+     20,490K: zygote (pid 243)
+     16,810K: com.android.phone (pid 891)
+     16,395K: com.cyanogenmod.trebuchet (pid 1268 / activities)
+      8,609K: com.android.inputmethod.latin (pid 698)
+      8,283K: android.process.acore (pid 1441)
+      8,177K: android.process.media (pid 1249)
+      6,167K: org.cyanogenmod.cmparts (pid 1308)
+      5,671K: mediaserver (pid 253)
+      5,175K: com.android.deskclock (pid 1128)
+      4,637K: org.cyanogenmod.audiofx (pid 1167)
+      4,514K: com.android.providers.calendar (pid 1423)
+      4,319K: com.cyanogenmod.settings.device (pid 1176)
+      3,675K: audioserver (pid 244)
+      3,634K: org.cyanogenmod.cmaudio.service (pid 858)
+      3,434K: com.android.managedprovisioning (pid 1358)
+      3,344K: surfaceflinger (pid 211)
+      3,248K: com.google.android.ext.services (pid 1107)
+      3,224K: media.extractor (pid 251)
+      3,193K: com.android.keychain (pid 1218)
+      3,188K: com.android.carrierconfig (pid 1339)
+      3,164K: com.android.smspush (pid 1231)
+      3,095K: media.codec (pid 249)
+      2,923K: com.android.onetimeinitializer (pid 1380)
+      2,494K: healthd (pid 207)
+      2,430K: logd (pid 176)
+      2,391K: nvitemd (pid 220)
+      2,032K: gpsd (pid 245)
+      1,877K: mediadrmserver (pid 250)
+      1,806K: rild (pid 218)
+      1,447K: wpa_supplicant (pid 866)
+      1,436K: vold (pid 185)
+      1,420K: engpc (pid 215)
+      1,404K: drmserver (pid 242)
+      1,358K: netd (pid 254)
+      1,302K: sdcard (pid 1033)
+      1,226K: sdcard (pid 745)
+      1,075K: /init (pid 1)
+        913K: at_distributor (pid 255)
+        901K: keystore (pid 247)
+        779K: adbd (pid 219)
+        757K: phoneserver (pid 214)
+        725K: installd (pid 246)
+        682K: gatekeeperd (pid 258)
+        631K: lmkd (pid 208)
+        620K: ueventd (pid 147)
+        521K: dumpsys (pid 1515)
+        501K: servicemanager (pid 210)
+        457K: perfprofd (pid 259)
+        393K: modemd (pid 209)
+        273K: debuggerd (pid 184)
+        231K: debuggerd:signaller (pid 187)
+
+Total PSS by OOM adjustment:
+     71,581K: Native
+         20,490K: zygote (pid 243)
+          5,671K: mediaserver (pid 253)
+          3,675K: audioserver (pid 244)
+          3,344K: surfaceflinger (pid 211)
+          3,224K: media.extractor (pid 251)
+          3,095K: media.codec (pid 249)
+          2,494K: healthd (pid 207)
+          2,430K: logd (pid 176)
+          2,391K: nvitemd (pid 220)
+          2,032K: gpsd (pid 245)
+          1,877K: mediadrmserver (pid 250)
+          1,806K: rild (pid 218)
+          1,447K: wpa_supplicant (pid 866)
+          1,436K: vold (pid 185)
+          1,420K: engpc (pid 215)
+          1,404K: drmserver (pid 242)
+          1,358K: netd (pid 254)
+          1,302K: sdcard (pid 1033)
+          1,226K: sdcard (pid 745)
+          1,075K: /init (pid 1)
+            913K: at_distributor (pid 255)
+            901K: keystore (pid 247)
+            779K: adbd (pid 219)
+            757K: phoneserver (pid 214)
+            725K: installd (pid 246)
+            682K: gatekeeperd (pid 258)
+            631K: lmkd (pid 208)
+            620K: ueventd (pid 147)
+            521K: dumpsys (pid 1515)
+            501K: servicemanager (pid 210)
+            457K: perfprofd (pid 259)
+            393K: modemd (pid 209)
+            273K: debuggerd (pid 184)
+            231K: debuggerd:signaller (pid 187)
+    141,598K: Persistent
+         72,420K: system (pid 590)
+         43,412K: com.android.systemui (pid 706 / activities)
+         16,810K: com.android.phone (pid 891)
+          4,637K: org.cyanogenmod.audiofx (pid 1167)
+          4,319K: com.cyanogenmod.settings.device (pid 1176)
+     16,395K: Foreground
+         16,395K: com.cyanogenmod.trebuchet (pid 1268 / activities)
+     10,046K: Visible
+          3,634K: org.cyanogenmod.cmaudio.service (pid 858)
+          3,248K: com.google.android.ext.services (pid 1107)
+          3,164K: com.android.smspush (pid 1231)
+      8,609K: Perceptible
+          8,609K: com.android.inputmethod.latin (pid 698)
+     45,054K: Cached
+          8,283K: android.process.acore (pid 1441)
+          8,177K: android.process.media (pid 1249)
+          6,167K: org.cyanogenmod.cmparts (pid 1308)
+          5,175K: com.android.deskclock (pid 1128)
+          4,514K: com.android.providers.calendar (pid 1423)
+          3,434K: com.android.managedprovisioning (pid 1358)
+          3,193K: com.android.keychain (pid 1218)
+          3,188K: com.android.carrierconfig (pid 1339)
+          2,923K: com.android.onetimeinitializer (pid 1380)
+
+Total PSS by category:
+     57,470K: Native
+     43,709K: Dalvik
+     42,102K: .so mmap
+     37,492K: .dex mmap
+     37,135K: .oat mmap
+     20,235K: .art mmap
+     17,946K: .apk mmap
+      9,080K: Unknown
+      9,080K: Dalvik Other
+      7,688K: Other mmap
+      6,396K: Stack
+      2,144K: .ttf mmap
+      1,228K: .jar mmap
+      1,092K: Ashmem
+        486K: Other dev
+          0K: Cursor
+          0K: Gfx dev
+          0K: EGL mtrack
+          0K: GL mtrack
+          0K: Other mtrack
+
+Total RAM: 1,484,812K (status normal)
+ Free RAM:   990,898K (   45,054K cached pss +   254,596K cached kernel +   691,248K free)
+ Used RAM:   291,309K (  248,229K used pss +    43,080K kernel)
+ Lost RAM:   202,605K
+      KSM:    10,232K saved from shared     1,084K              58,864K unshared;    44,456K volatile
+   Tuning: 192 (large 512), oom   184,320K, restore limit    61,440K (high-end-gfx)

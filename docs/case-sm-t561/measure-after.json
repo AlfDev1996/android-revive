@@ -1,0 +1,132 @@
+{
+  "ram_used_mb": 284,
+  "ram_free_total_mb": 968,
+  "ram_free_mb": 675,
+  "ram_total_mb": 1450,
+  "processes": 53,
+  "top_processes": [
+    {
+      "name": "system",
+      "pss_mb": 70.7
+    },
+    {
+      "name": "com.android.systemui",
+      "pss_mb": 42.4
+    },
+    {
+      "name": "zygote",
+      "pss_mb": 20.0
+    },
+    {
+      "name": "com.android.phone",
+      "pss_mb": 16.4
+    },
+    {
+      "name": "com.cyanogenmod.trebuchet",
+      "pss_mb": 16.0
+    },
+    {
+      "name": "com.android.inputmethod.latin",
+      "pss_mb": 8.4
+    },
+    {
+      "name": "android.process.acore",
+      "pss_mb": 8.1
+    },
+    {
+      "name": "android.process.media",
+      "pss_mb": 8.0
+    },
+    {
+      "name": "org.cyanogenmod.cmparts",
+      "pss_mb": 6.0
+    },
+    {
+      "name": "mediaserver",
+      "pss_mb": 5.5
+    },
+    {
+      "name": "com.android.deskclock",
+      "pss_mb": 5.1
+    },
+    {
+      "name": "org.cyanogenmod.audiofx",
+      "pss_mb": 4.5
+    },
+    {
+      "name": "com.android.providers.calendar",
+      "pss_mb": 4.4
+    },
+    {
+      "name": "com.cyanogenmod.settings.device",
+      "pss_mb": 4.2
+    },
+    {
+      "name": "audioserver",
+      "pss_mb": 3.6
+    }
+  ],
+  "process_names": [
+    "/init",
+    "adbd",
+    "android.process.acore",
+    "android.process.media",
+    "at_distributor",
+    "audioserver",
+    "com.android.carrierconfig",
+    "com.android.deskclock",
+    "com.android.inputmethod.latin",
+    "com.android.keychain",
+    "com.android.managedprovisioning",
+    "com.android.onetimeinitializer",
+    "com.android.phone",
+    "com.android.providers.calendar",
+    "com.android.smspush",
+    "com.android.systemui",
+    "com.cyanogenmod.settings.device",
+    "com.cyanogenmod.trebuchet",
+    "com.google.android.ext.services",
+    "debuggerd",
+    "debuggerd:signaller",
+    "drmserver",
+    "dumpsys",
+    "engpc",
+    "gatekeeperd",
+    "gpsd",
+    "healthd",
+    "installd",
+    "keystore",
+    "lmkd",
+    "logd",
+    "media.codec",
+    "media.extractor",
+    "mediadrmserver",
+    "mediaserver",
+    "modemd",
+    "netd",
+    "nvitemd",
+    "org.cyanogenmod.audiofx",
+    "org.cyanogenmod.cmaudio.service",
+    "org.cyanogenmod.cmparts",
+    "perfprofd",
+    "phoneserver",
+    "rild",
+    "sdcard",
+    "servicemanager",
+    "surfaceflinger",
+    "system",
+    "ueventd",
+    "vold",
+    "wpa_supplicant",
+    "zygote"
+  ],
+  "label": "after",
+  "taken_at": "2026-11-07T09:40:00",
+  "packages_enabled": 60,
+  "packages_total": 114,
+  "conditions": {
+    "after_reboot": true,
+    "settle_s": 0,
+    "uptime_s": 122
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "android-revive",
+  "description": "Revive old Android devices over adb: guided prep, before/after measurements, safe reversible debloat, health checks and one-command rollback.",
+  "version": "0.1.0",
+  "author": { "name": "AlfDev1996" },
+  "homepage": "https://github.com/AlfDev1996/android-revive",
+  "repository": "https://github.com/AlfDev1996/android-revive",
+  "license": "MIT",
+  "keywords": ["android", "adb", "debloat", "performance", "old-devices"]
+}

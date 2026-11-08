@@ -1,0 +1,148 @@
+{
+  "ram_used_mb": 537,
+  "ram_free_total_mb": 768,
+  "ram_free_mb": 49,
+  "ram_total_mb": 1450,
+  "processes": 70,
+  "top_processes": [
+    {
+      "name": "com.google.android.gms.ui",
+      "pss_mb": 89.0
+    },
+    {
+      "name": "system",
+      "pss_mb": 76.6
+    },
+    {
+      "name": "com.google.android.tts",
+      "pss_mb": 59.7
+    },
+    {
+      "name": "com.google.android.gms",
+      "pss_mb": 48.3
+    },
+    {
+      "name": "com.android.systemui",
+      "pss_mb": 45.3
+    },
+    {
+      "name": "com.google.android.gms.persistent",
+      "pss_mb": 43.4
+    },
+    {
+      "name": "com.android.vending",
+      "pss_mb": 35.5
+    },
+    {
+      "name": "com.android.settings",
+      "pss_mb": 28.7
+    },
+    {
+      "name": "com.cyanogenmod.trebuchet",
+      "pss_mb": 20.4
+    },
+    {
+      "name": "com.google.android.gms.unstable",
+      "pss_mb": 17.3
+    },
+    {
+      "name": "com.cyanogenmod.setupwizard",
+      "pss_mb": 17.2
+    },
+    {
+      "name": "com.android.phone",
+      "pss_mb": 16.0
+    },
+    {
+      "name": "com.google.android.setupwizard",
+      "pss_mb": 15.2
+    },
+    {
+      "name": "com.android.inputmethod.latin",
+      "pss_mb": 14.5
+    },
+    {
+      "name": "zygote",
+      "pss_mb": 13.5
+    }
+  ],
+  "process_names": [
+    "/init",
+    "adbd",
+    "android.process.acore",
+    "android.process.media",
+    "at_distributor",
+    "audioserver",
+    "com.android.cellbroadcastreceiver",
+    "com.android.email",
+    "com.android.gallery3d",
+    "com.android.inputmethod.latin",
+    "com.android.messaging",
+    "com.android.phone",
+    "com.android.printspooler",
+    "com.android.providers.calendar",
+    "com.android.settings",
+    "com.android.smspush",
+    "com.android.systemui",
+    "com.android.vending",
+    "com.android.vending:instant_app_installer",
+    "com.cyanogenmod.eleven",
+    "com.cyanogenmod.lockclock",
+    "com.cyanogenmod.settings.device",
+    "com.cyanogenmod.setupwizard",
+    "com.cyanogenmod.trebuchet",
+    "com.google.android.configupdater",
+    "com.google.android.ext.services",
+    "com.google.android.gms",
+    "com.google.android.gms.persistent",
+    "com.google.android.gms.ui",
+    "com.google.android.gms.unstable",
+    "com.google.android.partnersetup",
+    "com.google.android.setupwizard",
+    "com.google.android.tts",
+    "com.google.process.gapps",
+    "debuggerd",
+    "debuggerd:signaller",
+    "drmserver",
+    "dumpsys",
+    "engpc",
+    "gatekeeperd",
+    "gpsd",
+    "healthd",
+    "installd",
+    "keystore",
+    "lmkd",
+    "logd",
+    "media.codec",
+    "media.extractor",
+    "mediadrmserver",
+    "mediaserver",
+    "modemd",
+    "netd",
+    "nvitemd",
+    "org.cyanogenmod.audiofx",
+    "org.cyanogenmod.cmaudio.service",
+    "org.cyanogenmod.cmparts",
+    "org.cyanogenmod.weatherservice",
+    "org.lineageos.updater",
+    "perfprofd",
+    "phoneserver",
+    "rild",
+    "sdcard",
+    "servicemanager",
+    "surfaceflinger",
+    "system",
+    "ueventd",
+    "vold",
+    "wpa_supplicant",
+    "zygote"
+  ],
+  "label": "before",
+  "taken_at": "2026-11-07T09:10:00",
+  "packages_enabled": 102,
+  "packages_total": 114,
+  "conditions": {
+    "after_reboot": false,
+    "uptime_s": 524
+  }
+}

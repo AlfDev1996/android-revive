@@ -1,0 +1,11 @@
+{
+  "name": "android-revive",
+  "owner": { "name": "AlfDev1996" },
+  "plugins": [
+    {
+      "name": "android-revive",
+      "source": "./",
+      "description": "Revive old Android devices over adb, safely, with before/after numbers and full rollback."
+    }
+  ]
+}

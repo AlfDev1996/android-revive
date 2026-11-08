@@ -1,0 +1,39 @@
+# Samsung (TouchWiz / Samsung Experience / One UI).  Format:  package | tier | what it is
+com.samsung.android.app.tips                 | safe        | Tips
+com.samsung.android.voc                      | safe        | Samsung Members
+com.samsung.android.app.watchmanagerstub     | safe        | Galaxy Wearable stub
+com.samsung.android.kidsinstaller            | safe        | Kids mode installer
+com.samsung.android.arzone                   | safe        | AR Zone
+com.samsung.android.aremoji                  | safe        | AR Emoji
+com.samsung.android.livestickers             | safe        | live stickers
+com.samsung.android.stickercenter            | safe        | sticker center
+com.samsung.android.mateagent                | safe        | Galaxy Friends
+com.samsung.android.smartswitchassistant     | safe        | Smart Switch helper
+com.samsung.android.app.sharelive            | safe        | Share Live stub
+com.samsung.android.bixby.agent              | recommended | Bixby voice
+com.samsung.android.bixby.wakeup             | recommended | Bixby wake-up
+com.samsung.android.bixby.service            | recommended | Bixby service
+com.samsung.android.app.spage                | recommended | Bixby Home / Samsung Free
+com.samsung.android.visionintelligence       | recommended | Bixby Vision
+com.samsung.android.bixbyvision.framework    | recommended | Bixby Vision framework
+com.samsung.android.game.gamehome            | recommended | Game Launcher
+com.samsung.android.game.gametools           | recommended | Game Tools overlay
+com.sec.android.easyMover                    | recommended | Smart Switch
+com.samsung.android.scloud                   | recommended | Samsung Cloud
+com.samsung.android.email.provider           | recommended | Samsung Email
+com.sec.android.app.sbrowser                 | recommended | Samsung Internet (keep one browser)
+com.samsung.android.app.routines             | recommended | Bixby Routines
+com.samsung.android.da.daagent               | recommended | Dual Messenger
+com.sec.android.app.kidshome                 | recommended | Kids Home
+com.samsung.android.service.peoplestripe     | recommended | Edge people
+com.samsung.android.app.appsedge             | aggressive  | Apps edge panel
+com.samsung.android.app.taskedge             | aggressive  | Tasks edge panel
+com.samsung.android.app.cocktailbarservice   | aggressive  | Edge panels service
+com.samsung.android.game.gos                 | aggressive  | Game Optimizing Service (may change thermal behaviour)
+com.samsung.android.forest                   | aggressive  | Digital Wellbeing (Samsung)
+com.samsung.android.app.reminder             | aggressive  | Reminder
+com.samsung.android.calendar                 | aggressive  | Samsung Calendar
+com.sec.android.gallery3d                    | aggressive  | Samsung Gallery
+com.samsung.android.app.notes                | aggressive  | Samsung Notes
+com.sec.android.app.voicenote                | aggressive  | Voice Recorder
+com.samsung.knox.securefolder                | aggressive  | Secure Folder (lose access to its content while disabled)

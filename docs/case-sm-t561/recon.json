@@ -1,0 +1,7 @@
+{
+  "props": {
+    "ro.product.manufacturer": "Samsung",
+    "ro.product.model": "Galaxy Tab E 9.6 (SM-T561)",
+    "ro.build.version.release": "7.1.2 (LineageOS 14.1)"
+  }
+}

@@ -1,0 +1,26 @@
+# Xiaomi / Redmi / POCO (MIUI, HyperOS).  Format:  package | tier | what it is
+com.miui.analytics                | safe        | analytics / telemetry
+com.miui.msa.global               | safe        | system ads (MSA)
+com.miui.bugreport                | safe        | bug report
+com.miui.yellowpage               | safe        | caller-ID yellow pages
+com.facemoji.lite.xiaomi          | safe        | Facemoji keyboard
+com.miui.android.fashiongallery   | safe        | Wallpaper carousel
+com.xiaomi.glgm                   | safe        | Games center
+com.miui.hybrid                   | recommended | Quick apps
+com.miui.hybrid.accessory         | recommended | Quick apps accessory
+com.miui.daemon                   | recommended | MIUI telemetry daemon
+com.xiaomi.mipicks                | recommended | GetApps store
+com.mi.globalbrowser              | recommended | Mi Browser (keep one browser)
+com.miui.videoplayer              | recommended | Mi Video
+com.miui.player                   | recommended | Mi Music
+com.miui.miservice                | recommended | Services & feedback
+com.xiaomi.midrop                 | recommended | ShareMe
+com.xiaomi.payment                | recommended | Mi Pay
+com.mipay.wallet.in               | recommended | Mi Pay wallet (India)
+com.miui.weather2                 | aggressive  | Weather
+com.miui.compass                  | aggressive  | Compass
+com.miui.fm                       | aggressive  | FM radio
+com.miui.notes                    | aggressive  | Notes
+com.miui.screenrecorder           | aggressive  | Screen recorder
+com.miui.cleaner                  | aggressive  | Cleaner
+com.xiaomi.joyose                 | aggressive  | performance/thermal tuning service
